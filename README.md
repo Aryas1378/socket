@@ -6,3 +6,5 @@ only install tkinter by:
 
 *start*:
 run the server and then client files.
+
+![Screenshot](socket.png)
